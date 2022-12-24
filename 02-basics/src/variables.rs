@@ -1,3 +1,6 @@
+// Silence some warnings so they don't distract from the exercise.
+#![allow(dead_code, unused_variables)]
+
 const STARTING_MISSILES: i32 = 8;
 const READY_AMOUNT: i32 = 2;
 

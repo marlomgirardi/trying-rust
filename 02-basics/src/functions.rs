@@ -1,5 +1,5 @@
 // Silence some warnings so they don't distract from the exercise.
-#![allow(unused_variables)]
+#![allow(dead_code, unused_variables)]
 
 pub fn learning_functions() {
     let width = 4;
