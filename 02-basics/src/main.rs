@@ -6,7 +6,8 @@
 // mod strings;
 // mod ownership_reference;
 // mod struct_traits;
-mod collections_enums;
+// mod collections_enums;
+mod closures_threads;
 
 // use variables::learning_variables;
 
@@ -17,5 +18,6 @@ fn main() {
     // types::learning_types();
     // control_flow::learning_control_flow();
     // strings::learning_strings();
-    collections_enums::learning_ce();
+    // collections_enums::learning_ce();
+    closures_threads::learning_ct();
 }
